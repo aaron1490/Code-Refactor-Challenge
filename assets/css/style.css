@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,13 +32,19 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+/* nav bar hover color change functionality (after MVP product completed) */
+nav ul li a:hover{
+    color: black;
+    font-weight: 400;
 }
 
 a {
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* Background image - alt text not required for the image as it will have no impact to the page should this fail to load*/
 .hero {
     height: 800px;
     width: 100%;
@@ -167,6 +174,7 @@ p {
 
 .online-reputation-management img {
     max-height: 200px;
+    
 }
 
 .social-media-marketing img {
@@ -194,7 +202,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* font in footer element in index file scaled down to h4 from sourcecode then scaled up within css file */
+.footer h4 {
     font-size: 20px;
 }
