@@ -1,8 +1,8 @@
 # Code-Refactor-Challenge
 
-# Code Refactor Challenge (Bootcamp Module 1 Challenge - Due on 05/12/2023)
-
 ## Description
+
+Code Refactor Challenge (Bootcamp Module 1 Challenge - Due on 05/12/2023)
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
