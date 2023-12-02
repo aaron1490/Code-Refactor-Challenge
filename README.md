@@ -22,7 +22,7 @@ Repository for the website can be found here:
 
 Below is a screenshot of how the website should function and display:
 
-    ![website screenshot](/blob/main/assets/images/crc.png)
+    ![website screenshot](/assets/images/crc.png)
 
 
 ## Credits
