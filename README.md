@@ -6,6 +6,10 @@ Code Refactor Challenge (Bootcamp Module 1 Challenge - Due on 05/12/2023)
 
 Refactor code on Horiseon Social Solution Services's website so that it meets web accessibility standards. 
 
+- AS A marketing agency
+- I WANT a codebase that follows accessibility standards
+- SO THAT our own site is optimized for search engines
+
 - What was your motivation? To optimise Horiseon's website so that 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
@@ -13,13 +17,13 @@ Refactor code on Horiseon Social Solution Services's website so that it meets we
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Visit the Horiseon website deployed at the following link: 
+Repository for the website can be found here: 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Below is a screenshot of how the website should function and display:
 
-    ```md
-    ![website screenshot](./assets/images/crc.png)
-    ```
+    ![website screenshot](assets/images/crc.png)
+
 
 ## Credits
 
