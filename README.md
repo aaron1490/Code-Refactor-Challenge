@@ -19,7 +19,7 @@
 
 ## Usage
 
-- [Visit the Horiseon website deployed at the following link]()
+- [Visit the Horiseon website deployed at the following link](https://aaron1490.github.io/Code-Refactor-Challenge/)
 - [The repository for the website can be found here](https://github.com/aaron1490/Code-Refactor-Challenge)
 
 Below is a screenshot of how the website should function and display:
